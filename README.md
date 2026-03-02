@@ -7,7 +7,7 @@ Automated static site deployment using GitHub Actions + GitHub Pages.
 
 ## 🔗 Live Site
 
-> **[https://yourusername.github.io/cloud-beginner-cicd-pages-YourName/](https://yourusername.github.io/cloud-beginner-cicd-pages-YourName/)**  
+> **[https://alaa-adwen.github.io/cloud-beginner-cicd-pages-AlaaAdwen/](https://alaa-adwen.github.io/cloud-beginner-cicd-pages-AlaaAdwen/)**  
 
 ---
 
@@ -29,8 +29,8 @@ Automated static site deployment using GitHub Actions + GitHub Pages.
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/yourusername/cloud-beginner-cicd-pages-YourName.git
-   cd cloud-beginner-cicd-pages-YourName
+   git clone https://github.com/Alaa-Adwen/cloud-beginner-cicd-pages-AlaaAdwen.git
+   cd cloud-beginner-cicd-pages-AlaaAdwen
    ```
 
 2. **Open directly in browser:**
